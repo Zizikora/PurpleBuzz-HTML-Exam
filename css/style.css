@@ -19,7 +19,7 @@ height: 78px;
 
 .card{
     flex: 0 0 350px;
-    background-image: url(/images/Buzz\ image\ 1.png);
+    background-image: url(/images/card\ image\ 1.jpg);
     background-repeat: no-repeat;
     overflow: hidden;
     height: 74%;
@@ -31,6 +31,10 @@ background-color: none;
 }
 
 .card1{
+    display: flex;
+    flex-direction: column;
+  border: 2px solid black;
+  border-radius:15px;
     overflow: hidden;
     height: 99%;
     z-index: 2;
