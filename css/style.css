@@ -151,3 +151,31 @@ background-color: none;
     height: 97%;
     cursor: pointer;
 }
+
+
+.card12{
+    flex: 0 0 350px;
+    background-image: url(/images/relation\ image.png);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 97%;
+    cursor: pointer;
+}
+
+.card13{
+    flex: 0 0 350px;
+    background-image: url(/images/brandng\ image\ 2.png);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 97%;
+    cursor: pointer;
+}
+
+.card14{
+    flex: 0 0 350px;
+    background-image: url(/images/design\ image.png);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 97%;
+    cursor: pointer;
+}
