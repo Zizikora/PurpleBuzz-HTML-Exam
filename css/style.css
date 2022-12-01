@@ -58,6 +58,33 @@ background-color: none;
     cursor: pointer;
 }
 
+.card4{
+    flex: 0 0 350px;
+    background-image: url(/images/graphic\ image.jpg);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 74%;
+    cursor: pointer;
+}
+
+.card5{
+    flex: 0 0 350px;
+    background-image: url(/images/digital\ image\ 1.jpg);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 74%;
+    cursor: pointer;
+}
+
+.card6{
+    flex: 0 0 350px;
+    background-image: url(/images/research\ image.jpg);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 74%;
+    cursor: pointer;
+}
+
 .text{
     color: rgb(0, 0, 0);
     margin-top: 134px;
