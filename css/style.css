@@ -124,3 +124,30 @@ background-color: none;
     background: blueviolet;
     border-radius: 18px;
 }
+
+.card9{
+    flex: 0 0 350px;
+    background-image: url(/images/media\ image\ 2.png);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 97%;
+    cursor: pointer;
+}
+
+.card10{
+    flex: 0 0 350px;
+    background-image: url(/images/web\ image.png);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 97%;
+    cursor: pointer;
+}
+
+.card11{
+    flex: 0 0 350px;
+    background-image: url(/images/R\ &\ D\ image.png);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 97%;
+    cursor: pointer;
+}
