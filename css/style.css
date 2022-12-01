@@ -85,6 +85,25 @@ background-color: none;
     cursor: pointer;
 }
 
+.card7{
+    flex: 0 0 350px;
+    background-image: url(/images/business\ image.jpg);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 74%;
+    cursor: pointer;
+}
+
+.card8{
+    flex: 0 0 350px;
+    background-image: url(/images/branding\ image.jpg);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 74%;
+    cursor: pointer;
+    margin-right:357px;
+}
+
 .text{
     color: rgb(0, 0, 0);
     margin-top: 134px;
@@ -93,4 +112,15 @@ background-color: none;
 .text2{
  color: white;
  margin-top: 134px;
+}
+
+.box2{
+    background-color:rgba(98, 102, 234, 1);
+    color: white;
+}
+
+.view{
+    color: white;
+    background: blueviolet;
+    border-radius: 18px;
 }
