@@ -8,6 +8,31 @@ height: 78px;
   padding-top: 32px;
 }
 
+.boxes{
+    display: flex;
+    margin-left: -50px;
+    margin-bottom: 1020;
+    justify-content: space-around;
+}
+
+.boxes{
+    display: flex;
+    margin-left: -50px;
+    margin-bottom:102;
+    justify-content: space-around;
+}
+
+.box2{
+    background-color:rgba(98, 102, 234, 1);
+    color: white;
+}
+
+.view{
+    color: white;
+    background: blueviolet;
+    border-radius: 18px;
+}
+
 .cards{
     background-color: white;
    display: flex; 
@@ -19,10 +44,10 @@ height: 78px;
 
 .card{
     flex: 0 0 350px;
-    background-image: url(/images/card\ image\ 1.jpg);
+    background-image: url(/images/media\ image\ 2.png);
     background-repeat: no-repeat;
     overflow: hidden;
-    height: 74%;
+    height:97% ;
     cursor: pointer;
 }
 
@@ -42,67 +67,51 @@ background-color: none;
 
 .card2{
     flex: 0 0 350px;
-    background-image: url(/images/media\ image.jpg);
+    background-image: url(/images/web\ image.png);
     background-repeat: no-repeat;
     overflow: hidden;
-    height: 74%;
+    height: 97%;
     cursor: pointer;
 }
+
 
 .card3{
     flex: 0 0 350px;
-    background-image: url(/images/marketing\ image.jpg);
+    background-image: url(/images/R\ &\ D\ image.png);
     background-repeat: no-repeat;
     overflow: hidden;
-    height: 74%;
+    height: 97%;
     cursor: pointer;
 }
 
+
 .card4{
     flex: 0 0 350px;
-    background-image: url(/images/graphic\ image.jpg);
+    background-image: url(/images/relation\ image.png);
     background-repeat: no-repeat;
     overflow: hidden;
-    height: 74%;
+    height: 97%;
     cursor: pointer;
 }
 
 .card5{
     flex: 0 0 350px;
-    background-image: url(/images/digital\ image\ 1.jpg);
+    background-image: url(/images/brandng\ image\ 2.png);
     background-repeat: no-repeat;
     overflow: hidden;
-    height: 74%;
+    height: 97%;
     cursor: pointer;
 }
 
 .card6{
     flex: 0 0 350px;
-    background-image: url(/images/research\ image.jpg);
+    background-image: url(/images/design\ image.png);
     background-repeat: no-repeat;
     overflow: hidden;
-    height: 74%;
+    height: 97%;
     cursor: pointer;
 }
 
-.card7{
-    flex: 0 0 350px;
-    background-image: url(/images/business\ image.jpg);
-    background-repeat: no-repeat;
-    overflow: hidden;
-    height: 74%;
-    cursor: pointer;
-}
-
-.card8{
-    flex: 0 0 350px;
-    background-image: url(/images/branding\ image.jpg);
-    background-repeat: no-repeat;
-    overflow: hidden;
-    height: 74%;
-    cursor: pointer;
-    margin-right:357px;
-}
 
 .text{
     color: rgb(0, 0, 0);
@@ -114,83 +123,14 @@ background-color: none;
  margin-top: 134px;
 }
 
-.box2{
-    background-color:rgba(98, 102, 234, 1);
-    color: white;
-}
-
-.view{
-    color: white;
-    background: blueviolet;
-    border-radius: 18px;
-}
-
-.card9{
-    flex: 0 0 350px;
-    background-image: url(/images/media\ image\ 2.png);
-    background-repeat: no-repeat;
-    overflow: hidden;
-    height: 97%;
-    cursor: pointer;
-}
-
-.card10{
-    flex: 0 0 350px;
-    background-image: url(/images/web\ image.png);
-    background-repeat: no-repeat;
-    overflow: hidden;
-    height: 97%;
-    cursor: pointer;
-}
-
-.card11{
-    flex: 0 0 350px;
-    background-image: url(/images/R\ &\ D\ image.png);
-    background-repeat: no-repeat;
-    overflow: hidden;
-    height: 97%;
-    cursor: pointer;
-}
-
-
-.card12{
-    flex: 0 0 350px;
-    background-image: url(/images/relation\ image.png);
-    background-repeat: no-repeat;
-    overflow: hidden;
-    height: 97%;
-    cursor: pointer;
-}
-
-.card13{
-    flex: 0 0 350px;
-    background-image: url(/images/brandng\ image\ 2.png);
-    background-repeat: no-repeat;
-    overflow: hidden;
-    height: 97%;
-    cursor: pointer;
-}
-
-.card14{
-    flex: 0 0 350px;
-    background-image: url(/images/design\ image.png);
-    background-repeat: no-repeat;
-    overflow: hidden;
-    height: 97%;
-    cursor: pointer;
-}
-
 .bottom-box{
     background-color: rgba(98, 102, 234, 1);
     color: white;
 }
 
-
 .h2-text{
 background-color: rgba(98, 102, 234, 1) ;
-    text-align: left;
+    text-align: center;
     color: white;
     width: 90%;
-    margin: 56px;
-    padding-top: 35px;
 }
