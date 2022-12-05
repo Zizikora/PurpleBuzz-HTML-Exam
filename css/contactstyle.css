@@ -13,3 +13,26 @@ color:rgba(66, 50, 194, 1);
  width: 234;
  height: 56;
 }
+
+.bottom-box{
+    display: flex;
+    background-color: rgba(98, 102, 234, 1);
+    overflow: hidden;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.box-header{
+width:100%; 
+background-color: rgba(98, 102, 234, 1);
+margin-top: 100px;
+}
+
+.h2-text{
+background-color:  rgba(98, 102, 234, 1);
+    text-align: left;
+    color: white;
+    width: 90%;
+    margin: 56px;
+    padding-bottom: 35px;
+}
