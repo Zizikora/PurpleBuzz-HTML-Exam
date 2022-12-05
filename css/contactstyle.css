@@ -1,3 +1,15 @@
 .Create{
-color: blue;
+color:rgba(66, 50, 194, 1);
+}
+
+#Messages{
+    margin-left: 235px;
+}
+
+.button{
+ margin-left: 789px;   
+ background:rgba(98, 102, 234, 1);
+ border-radius: 15px;
+ width: 234;
+ height: 56;
 }
