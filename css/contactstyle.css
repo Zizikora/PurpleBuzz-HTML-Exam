@@ -16,7 +16,7 @@ color:rgba(66, 50, 194, 1);
 
 .bottom-box{
     display: flex;
-    background-color: rgba(98, 102, 234, 1);
+    background-color:rgba(98, 102, 234, 1);
     overflow: hidden;
     justify-content: space-between;
     width: 100%;
@@ -37,49 +37,7 @@ background-color:  rgba(98, 102, 234, 1);
     padding-bottom: 35px;
 }
 
-.h2-text2{
-    height: 240px;
-    text-align: left;
-    color: white;
-    width: 90%;
-    margin: 56px;
-    padding-top: 35px;
-    margin: 100px;
-    margin-left:21px;
-
+.block{
+float: right;
+font-size: 28px;
 }
-
-.bottom-box2{
-  display: block;
-  height:500px;
-  color: white;
-}
-
-.box-header2{
-    background-color: rgba(98, 102, 234, 1);
-    padding-bottom: 100%;
-}
-
-
-.bottom-box3{
-    display: flex;
-    height: 700px;
-    overflow: hidden;
-    justify-content: space-between;
-    width: 100%;
-}
-
-.box-header3{
-    width:100%; 
-    height: 600px;
-    margin-top: 100px;
-    }
-
-    .h2-text3{
-        height: 240px;
-       text-align: left;
-        color: white;
-        width: 90%;
-        padding-top: 35px;
-        margin-left: 67px;
-    } 
