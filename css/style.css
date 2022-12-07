@@ -1,0 +1,140 @@
+.box{
+background-color: royalblue;
+color:white;
+height: 78px;
+}
+
+.content{
+  padding-top: 32px;
+}
+
+.boxes{
+    display: flex;
+    margin-left: -50px;
+    margin-bottom: 1020;
+    justify-content: space-around;
+}
+
+.boxes{
+    display: flex;
+    margin-left: -50px;
+    margin-bottom:102;
+    justify-content: space-around;
+}
+
+.box2{
+    background-color:rgba(98, 102, 234, 1);
+    color: white;
+}
+
+.view{
+    color: white;
+    background: blueviolet;
+    border-radius: 18px;
+}
+
+.cards{
+    background-color: white;
+   display: flex; 
+   justify-content:space-between;
+   padding-left: 10px;
+   height: 400px;
+   margin: 50px;
+}
+
+.card{
+    flex: 0 0 350px;
+    background-image: url(/images/media\ image\ 2.png);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height:97% ;
+    cursor: pointer;
+}
+
+.card:hover{
+background-color: none;
+}
+
+.card1{
+    display: flex;
+    flex-direction: column;
+  border: 2px solid black;
+  border-radius:15px;
+    overflow: hidden;
+    height: 99%;
+    z-index: 2;
+}
+
+.card2{
+    flex: 0 0 350px;
+    background-image: url(/images/web\ image.png);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 97%;
+    cursor: pointer;
+}
+
+
+.card3{
+    flex: 0 0 350px;
+    background-image: url(/images/R\ &\ D\ image.png);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 97%;
+    cursor: pointer;
+}
+
+
+.card4{
+    flex: 0 0 350px;
+    background-image: url(/images/relation\ image.png);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 97%;
+    cursor: pointer;
+}
+
+.card5{
+    flex: 0 0 350px;
+    background-image: url(/images/brandng\ image\ 2.png);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 97%;
+    cursor: pointer;
+}
+
+.card6{
+    flex: 0 0 350px;
+    background-image: url(/images/design\ image.png);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 97%;
+    cursor: pointer;
+}
+
+
+.text{
+    color: rgb(0, 0, 0);
+    margin-top: 134px;
+}
+
+.text2{
+ color: white;
+ margin-top: 134px;
+}
+
+.bottom-box{
+    background-color: rgba(98, 102, 234, 1);
+    color: white;
+}
+
+.h2-text{
+background-color: rgba(98, 102, 234, 1) ;
+    text-align: center;
+    color: white;
+    width: 90%;
+}
+
+.contact{
+    color: black;
+}
